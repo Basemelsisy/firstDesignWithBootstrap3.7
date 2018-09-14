@@ -1,0 +1,40 @@
+/* Mobiles and tablets screen */
+@media (max-width: 767px){
+    .navbar-nav > li > a {
+        padding-top:10px;
+        padding-bottom:10px
+    }
+    .testimonials .carousel-indicators li {
+        width: 55px;
+        height: 55px;
+    }
+    .subscribe .form-control {
+        margin:0 auto 20px;
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse {
+        max-height:none
+    }
+    .fetures {padding-bottom:0}
+    .fetures .feat p {
+        margin-bottom:40px
+    }
+}
+/* small screen */
+@media (min-width: 768px) and (max-width: 991px){
+    .navbar-inverse .navbar-brand{
+        line-height:40px
+    }
+}
+/* medium screen */
+@media (min-width: 992px) and (max-width: 1199px){
+    .navbar-inverse .navbar-brand{
+        line-height:40px
+    }    
+}
+/* Larg screen */
+@media (min-width: 1200px){
+    .navbar-inverse .navbar-brand{
+        line-height:40px
+    }
+}

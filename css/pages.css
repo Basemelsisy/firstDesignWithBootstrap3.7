@@ -1,0 +1,65 @@
+/***** PAGE ABOUT *****/
+/* Start Section About Us */
+.about-us
+{
+    padding: 30px 0;
+}
+.about-us h1
+{
+    font-size: 70px;
+    font-family: 'Luckiest Guy', cursive;
+}
+.about-us hr,
+.faq hr
+{
+    width:75%;
+    margin-top:20px;
+    margin-bottom:20px
+}
+/* End Section About Us */
+/* Start Section About Fetures */
+.about-fetures
+{
+    padding:30px 0
+}
+.about-fetures h2
+{
+    font-size:25px;
+    font-family: 'Luckiest Guy', cursive;
+}
+.about-fetures p
+{
+    font-size: 18px
+}
+/* End Section About Fetures */
+/* Start Section About Ceo */
+.about-ceo
+{
+    background-color: #EEE;
+    padding: 30px 0 0 0
+}
+.about-ceo .contact
+{
+    margin-bottom:30px;
+    
+}
+.about-ceo .contact h2
+{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+}
+.about-ceo .contact p {line-height:35px}
+.about-ceo .contact .btn-primary
+{
+    background-color: #333;
+    border-color: #333
+}
+/* End Section About Ceo */
+
+/***** PAGE FAQ *****/
+.faq {padding: 50px 0 30px 0}
+.faq h1
+{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+}
